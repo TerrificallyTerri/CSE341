@@ -1,0 +1,25 @@
+{
+  "name": "w01_ind_act",
+  "version": "1.0.0",
+  "description": "Individual Activity for week 1",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TerrificallyTerri/CSE341.git#main"
+  },
+  "author": "T de Breyn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TerrificallyTerri/CSE341/issues"
+  },
+  "homepage": "https://github.com/TerrificallyTerri/CSE341/tree/main#readme",
+  "dependencies": {
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0",
+    "mongodb": "^6.16.0"
+  }
+}
